@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Room001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"Room002","order":2,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"Room001","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Room002","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"START","order":1,"parentId":0,"scrollX":832,"scrollY":640}
 ]
